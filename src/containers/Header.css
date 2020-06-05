@@ -1,0 +1,28 @@
+
+#header-wrapper {
+    width: 100%;
+    background-color: #793642;
+    color: white;
+}
+
+#header {
+    padding: 10px 5px 10px 35px;
+    display: grid;
+    grid-template-columns: 250px 1fr 80px;
+}
+
+#title {
+    font-size: 1.9em;
+    font-weight: 500;
+    text-align: center;
+}
+
+#tabs {
+    margin: auto 10px;
+}
+
+#tabs span {
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1.1em;
+}

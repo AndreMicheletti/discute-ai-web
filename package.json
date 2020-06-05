@@ -6,9 +6,20 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@types/react-autosuggest": "^9.3.14",
+    "@types/react-tagsinput": "^3.19.7",
+    "@types/showdown": "^1.9.3",
+    "firebase": "^7.14.5",
+    "firebase-admin": "^8.12.1",
+    "lodash": "^4.17.15",
     "react": "^16.13.1",
+    "react-autosuggest": "^10.0.2",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-mde": "^10.0.3",
+    "react-scripts": "3.4.1",
+    "react-tagsinput": "^3.19.0",
+    "showdown": "^1.9.1",
+    "typescript": "^3.9.3"
   },
   "scripts": {
     "start": "react-scripts start",
