@@ -9,7 +9,7 @@
     "@types/react-autosuggest": "^9.3.14",
     "@types/react-tagsinput": "^3.19.7",
     "@types/showdown": "^1.9.3",
-    "firebase": "^7.14.5",
+    "firebase": "^10.9.0",
     "firebase-admin": "^8.12.1",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
